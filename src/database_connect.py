@@ -27,5 +27,3 @@ class Database:
             sys.exit()
         finally:
             logging.info('Connection opened successfully.')
-from info_database import Config 
-db = Database(Config)
