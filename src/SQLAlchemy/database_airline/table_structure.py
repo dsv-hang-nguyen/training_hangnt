@@ -115,3 +115,4 @@ class Airport(Base):
         self.name = name
         self.city = city
         self.product = product
+
