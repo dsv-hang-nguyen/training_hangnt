@@ -45,4 +45,5 @@ class FooTest(unittest.TestCase):
             s.split(2)
 
 if __name__ == "__main__":
+    # cung cap giao dien dong lenh cho tap lenh thu nghiem ( run tap lenh thu nghiem)
     unittest.main()
